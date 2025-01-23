@@ -1,6 +1,5 @@
-#open envorment
-python -m venv env
-#activate
-source env/bin/activate
-#install telegram-bot
-pip install python-telegam-bot==13.15
+# Open Environment
+python -m venv env  
+source env/bin/activate  
+pip install python-telegram-bot
+
